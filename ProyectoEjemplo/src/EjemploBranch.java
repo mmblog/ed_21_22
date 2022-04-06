@@ -6,6 +6,7 @@ public class EjemploBranch {
 		
 		System.out.println("cambio de ejemplo 1");
 		System.out.println("cambio de ejemplo 2");
+		System.out.println("Hola compi, qué tal");
 	}
 
 }
