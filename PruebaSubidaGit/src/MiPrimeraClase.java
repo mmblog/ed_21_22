@@ -5,6 +5,7 @@ public class MiPrimeraClase {
 		
 		System.out.println("Hola Mundo");
 		System.out.println("Otro mensaje");
+		System.out.println("Hola buenas tardes");
 		
 	}
 	
