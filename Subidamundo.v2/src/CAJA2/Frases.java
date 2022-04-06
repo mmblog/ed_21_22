@@ -6,6 +6,7 @@ public class Frases {
 		System.out.println("Hola mundo cruel");
 		System.out.println("La vida no es lo que parece, es peor -Manuel alejandro márquez lópez");
 		System.out.println("Con los donuts te roban el centro -Manuel alejandro márquez lópez");
+		System.out.println("La vida es una tombola de luz y de color-Ángel Márquez Sánchez");
 
 	}
 
