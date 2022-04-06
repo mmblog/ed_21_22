@@ -5,6 +5,7 @@ public class Subida {
 		// TODO Auto-generated method stub
 System.out.println("Comprobación de subida");
 System.out.println("Mensaje para git");
+System.out.println("Nuevos mensajes");
 	}
 
 }
