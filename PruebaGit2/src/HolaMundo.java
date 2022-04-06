@@ -6,6 +6,7 @@ public class HolaMundo {
 		System.out.println("Hola Mundo");
 		
 		System.out.println("Tu eres la arena y yo soy la mar");
+		System.out.println("Otro hola mundo");
 	}
 
 }
