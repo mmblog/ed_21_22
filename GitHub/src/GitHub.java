@@ -6,7 +6,7 @@ public class GitHub {
 		System.out.println("Hola, esto es una prueba");
 		System.out.println("Cambio con otro mensaje");
 		
-		System.out.println("Cambio con los compañeros");
+		System.out.println("Cambio con los compañeros 1");
 	}
 
 }
