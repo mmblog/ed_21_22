@@ -7,6 +7,7 @@ public class ClasePrueba {
 		System.out.println("Primer cambios en la clase");
 		System.out.println("Otro cambio");
 		System.out.println("Cambio actividad");
+		System.out.println("Cambio de gonzalezi");
 
 
 
